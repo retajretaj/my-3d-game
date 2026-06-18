@@ -1,0 +1,12 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+L1.tscn202067212.tmp
+L1.tscn533099922.tmp
+tree1/jacaranda_tree.bin
+project.godot
+icon.svg.import
+*.import
+.godot/
+.import/
+*.tmp
